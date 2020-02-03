@@ -1,0 +1,9 @@
+{
+    "name": "com.baba_s.unity-project-window-menu-customizer",
+    "displayName": "UnityProjectWindowMenuCustomizer",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "author": "baba_s",
+    "description": "",
+    "dependencies": {}
+}
