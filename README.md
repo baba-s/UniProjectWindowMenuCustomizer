@@ -1,19 +1,15 @@
-[日本語の Readme はこちら](https://github.com/baba-s/unity-project-window-menu-customizer/blob/master/README_JP.md)  
+[日本語の Readme はこちら](https://github.com/baba-s/UniProjectWindowMenuCustomizer/blob/master/README_JP.md)  
 
-# Unity Project Window Menu Customizer
+# Uni Project Window Menu Customizer
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20200203/20200203201605.png)
 
 Editor extension that allows you to customize the menu that appears when you right-click on Project view.  
 
-![](https://img.shields.io/badge/Unity-2019.3%2B-red.svg)
-![](https://img.shields.io/badge/.NET-4.x-orange.svg)
-[![](https://img.shields.io/github/license/baba-s/unity-project-window-menu-customizer.svg)](https://github.com/baba-s/unity-project-window-menu-customizer/blob/master/LICENSE.md)
-
 ## Install
 
 ```json
-"com.baba_s.unity-project-window-menu-customizer": "https://github.com/baba-s/unity-project-window-menu-customizer.git",
+"com.baba-s.uni-project-window-menu-customizer": "https://github.com/baba-s/UniProjectWindowMenuCustomizer.git",
 ```
 
 Add the above dependencies to manifest.json.  

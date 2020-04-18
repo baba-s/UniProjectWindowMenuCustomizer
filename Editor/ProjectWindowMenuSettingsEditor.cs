@@ -2,7 +2,7 @@
 using UnityEditorInternal;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniProjectWindowMenuCustomizer.Internal
 {
 	[CustomEditor( typeof( ProjectWindowMenuSettings ) )]
 	internal sealed class ProjectWindowMenuSettingsEditor : Editor

@@ -1,5 +1,5 @@
 {
-    "name": "UnityProjectWindowMenuCustomizer",
+    "name": "UniProjectWindowMenuCustomizer",
     "references": [],
     "includePlatforms": [
         "Editor"

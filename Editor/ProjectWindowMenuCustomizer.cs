@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniProjectWindowMenuCustomizer.Internal
 {
 	[InitializeOnLoad]
 	internal static class ProjectWindowMenuCustomizer

@@ -1,17 +1,13 @@
-# Unity Project Window Menu Customizer
+# Uni Project Window Menu Customizer
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20200203/20200203201605.png)
 
 Project ビューを右クリックした時に表示されるメニューをカスタマイズできるエディタ拡張  
 
-![](https://img.shields.io/badge/Unity-2019.3%2B-red.svg)
-![](https://img.shields.io/badge/.NET-4.x-orange.svg)
-[![](https://img.shields.io/github/license/baba-s/unity-project-window-menu-customizer.svg)](https://github.com/baba-s/unity-project-window-menu-customizer/blob/master/LICENSE.md)
-
 ## インストール
 
 ```json
-"com.baba_s.unity-project-window-menu-customizer": "https://github.com/baba-s/unity-project-window-menu-customizer.git",
+"com.baba-s.uni-project-window-menu-customizer": "https://github.com/baba-s/UniProjectWindowMenuCustomizer.git",
 ```
 
 manifest.json に上記の記述を追加します  

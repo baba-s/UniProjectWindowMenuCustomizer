@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniProjectWindowMenuCustomizer.Internal
 {
 	[CustomPropertyDrawer( typeof( ProjectWindowMenuSettings.Data ) )]
 	internal sealed class ProjectWindowMenuSettingsDataDrawer : PropertyDrawer

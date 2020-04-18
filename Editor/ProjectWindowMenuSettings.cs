@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniProjectWindowMenuCustomizer.Internal
 {
-	[CreateAssetMenu( fileName = "ProjectWindowMenuSettings", order = 9001 )]
+	[CreateAssetMenu( fileName = "ProjectWindowMenuSettings", menuName = "UniProjectWindowMenuCustomizer/ProjectWindowMenuSettings", order = 9001 )]
 	internal sealed class ProjectWindowMenuSettings : ScriptableObject
 	{
 		[SerializeField] private Data[] m_list = null;
